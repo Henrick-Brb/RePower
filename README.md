@@ -84,14 +84,13 @@ Esses dados são usados para listar e categorizar os projetos dentro da aplicaç
 ## 🖼️ Prévia do Projeto
 
 ```markdown
-<img src="./src/img/screenshot.png" width="400" alt="Tela Inicial do RePower" />
+<img src="src/img/screenshot.png" width="400" alt="Tela Inicial do RePower" />
 ```
 ---
 
 ## 🧑‍💻 Desenvolvido por
 
-Henrick de Lima Borba  
-[LinkedIn](https://www.linkedin.com/in/henrick-brb/)
+Henrick de Lima Borba [LinkedIn](https://www.linkedin.com/in/henrick-brb/)
 
 ---
 
