@@ -81,13 +81,6 @@ Esses dados são usados para listar e categorizar os projetos dentro da aplicaç
 
 ---
 
-## 🖼️ Prévia do Projeto
-
-```markdown
-<img src="https://github.com/Henrick-Brb/RePower/raw/main/src/img/screenshot.png" width="400" alt="Tela Inicial do RePower" />
-```
----
-
 ## 🧑‍💻 Desenvolvido por
 
 Henrick de Lima Borba [LinkedIn](https://www.linkedin.com/in/henrick-brb/)
