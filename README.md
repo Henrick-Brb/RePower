@@ -84,7 +84,7 @@ Esses dados são usados para listar e categorizar os projetos dentro da aplicaç
 ## 🖼️ Prévia do Projeto
 
 ```markdown
-<img src="src/img/screenshot.png" width="400" alt="Tela Inicial do RePower" />
+<img src="https://github.com/Henrick-Brb/RePower/raw/main/src/img/screenshot.png" width="400" alt="Tela Inicial do RePower" />
 ```
 ---
 
