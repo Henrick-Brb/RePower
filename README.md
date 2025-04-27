@@ -78,14 +78,13 @@ Esses dados são usados para listar e categorizar os projetos dentro da aplicaç
 | ----------------- | ------------------------------------- |
 | `npm start`       | Inicia o servidor React               |
 | `npm run backend` | Inicia o JSON Server (porta 5000)     |
-| ----------------- | ------------------------------------- |
 
 ---
 
 ## 🖼️ Prévia do Projeto
 
 ```markdown
-![Tela Inicial do RePower](./src/img/screenshot.png)
+<img src="./src/img/screenshot.png" width="400" alt="Tela Inicial do RePower" />
 ```
 ---
 
