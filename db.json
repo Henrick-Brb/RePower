@@ -1,0 +1,62 @@
+{
+  "projetos": [
+    {
+      "id": "ebd8",
+      "name": "Projeto Musculoso",
+      "horas": "60",
+      "category": {
+        "id": "3",
+        "name": "Hipertrofia"
+      },
+      "cost": 9,
+      "services": [
+        {
+          "name": "Perna",
+          "cost": "2",
+          "description": "LegPress, Agachamento e Cadeira Extensora",
+          "id": "9adbc5d4-ff46-4878-a231-03396ff0c771"
+        },
+        {
+          "name": "Costas",
+          "cost": "2",
+          "description": "Remada baixa, Puxada Unilateral",
+          "id": "fbfa61bd-0836-46a5-9e2e-b2a5c568cac5"
+        },
+        {
+          "name": "Deltoide",
+          "cost": "2",
+          "description": "Elevação Lateral, Elevação Arnold ",
+          "id": "e2a1e53e-2f1d-4998-86a6-351ed4dba32c"
+        },
+        {
+          "name": "Peito",
+          "cost": "3",
+          "description": "Supino Inclinado",
+          "id": "2cc7efaf-6d3d-4cd2-983a-d58cb36defd7"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Perder Peso"
+    },
+    {
+      "id": "2",
+      "name": "Ganhar Peso"
+    },
+    {
+      "id": "3",
+      "name": "Hipertrofia"
+    },
+    {
+      "id": "4",
+      "name": "Força"
+    },
+    {
+      "id": "5",
+      "name": "Resistência"
+    }
+  ]
+}
